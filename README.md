@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Rodrigo 👋
 
-<!--
-**Esquide17/Esquide17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.imgur.com/AvmwIEE.jpeg">
 
-Here are some ideas to get you started:
+## About me 
+- 🔧 Skills: Java ☕, Kotlin 📱, Swift 🍏, Python 🐍, MySQL
+- 🛠️ Tools: Git, GitHub, Eclipse, Android Studio, Xcode
+- 📋 Methodologies: Agile, Scrum
+- 🎯 Currently learning: Advanced frameworks and new tools in mobile and backend development.
+- 💼 Personal Projects: Currently developing a Kotlin-based application designed as a calendar to manage the schedules of teachers. It allows easy scheduling and efficient management of classes. 🗓️
+- 💬 Fun fact: I love solving coding puzzles. 💡
+- 🎮 Hobbies: When I'm not coding, I enjoy playing strategy games, reading tech blogs, and exploring new places. 🌍
+- 📧 Contact: Feel free to reach out to me on LinkedIn or Twitter for collaboration or just to talk about tech!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
